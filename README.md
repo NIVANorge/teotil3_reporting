@@ -8,7 +8,7 @@ Development of TEOTIL3 is described in [NIVA Report 7996-2024](https://niva.brag
 
 ## 1. Report code
 
-Code to generate the TEOTIL3 annual reports is [here](./code).
+Code to generate TEOTIL3 annual reports is [here](https://github.com/NIVANorge/teotil3_reporting/tree/main/code).
 
 ## 2. Report data
 
@@ -16,4 +16,4 @@ Data presented in each annual report can the found in the folder `report_data/{y
 
 The list below provides direct links to the data for each annual report:
 
- * [2023](./report_data/2023)
+ * [2023](https://github.com/NIVANorge/teotil3_reporting/tree/main/report_data/2023)
