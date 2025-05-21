@@ -21,14 +21,14 @@ XMIN, XMAX, YMIN, YMAX = -120000, 1180000, 6400000, 8000000
 
 # Colours for report categories
 COLOUR_DICT = {
-    "Akvakultur": "#E24A33",
-    "Jordbruk": "#348ABD",
-    "Avløp": "#988ED5",
-    "Industri": "#777777",
-    "Bebygd": "#17BECF",
-    "Bakgrunn": "#FBC15E",
-    "Menneskeskapt": "#FFB5B8",
-    "Totalt": "#8EBA42",
+    "Akvakultur": "royalblue",
+    "Jordbruk": "sienna",
+    "Avløp": "red",
+    "Industri": "darkgrey",
+    "Bebygd": "gold",
+    "Bakgrunn": "limegreen",
+    "Menneskeskapt": "pink",
+    "Totalt": "black",
 }
 plt.rcParams["axes.prop_cycle"] = plt.cycler(color=list(COLOUR_DICT.values()))
 
